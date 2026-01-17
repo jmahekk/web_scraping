@@ -1,7 +1,7 @@
 # web_scraping
 
 # Clone the repo
-git clone https://github.com/username/tweets-scraper.git
+git clone https://github.com/username/web_scraping.git
 cd tweets-scraper
 
 # Create virtual environment
