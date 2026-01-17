@@ -21,7 +21,7 @@ python main.py
 
 - Source: Kaggle (CSV file with tweet data)
 - Fields: Date, Tweet, Stock Name, Company Name
-- 
+
 ## 2. Data Processing
 
 - **Cleaner Module**: Lowercase text, remove special characters, emojis, URLs.
